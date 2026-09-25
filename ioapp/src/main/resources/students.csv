@@ -1,0 +1,4 @@
+id,firstName,lastName,email,course
+101,Ravi,Kumar,ravi.kumar@example.com,Java
+102,Priya,Sharma,priya.sharma@example.com,Spring Boot
+103,Amit,Patel,amit.patel@example.com,Database

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>101</id>
+        <firstName>Ravi</firstName>
+        <lastName>Kumar</lastName>
+        <email>ravi.kumar@example.com</email>
+        <course>Java</course>
+    </student>
+    <student>
+        <id>102</id>
+        <firstName>Priya</firstName>
+        <lastName>Sharma</lastName>
+        <email>priya.sharma@example.com</email>
+        <course>Spring Boot</course>
+    </student>
+    <student>
+        <id>103</id>
+        <firstName>Amit</firstName>
+        <lastName>Patel</lastName>
+        <email>amit.patel@example.com</email>
+        <course>Database</course>
+    </student>
+</students>

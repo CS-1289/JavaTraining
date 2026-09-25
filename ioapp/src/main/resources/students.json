@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "firstName": "Ravi",
+    "lastName": "Kumar",
+    "email": "ravi.kumar@example.com",
+    "course": "Java"
+  },
+  {
+    "id": 102,
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "email": "priya.sharma@example.com",
+    "course": "Spring Boot"
+  },
+  {
+    "id": 103,
+    "firstName": "Amit",
+    "lastName": "Patel",
+    "email": "amit.patel@example.com",
+    "course": "Database"
+  }
+]
